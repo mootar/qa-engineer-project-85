@@ -121,7 +121,8 @@
     Добавить опцию смены e-mail
   prerequisites: |
     Актуально для аккаунтов, зарегистрированных с использованием e-mail. Зайти на https://codebattle.hexlet.io/ и авторизоваться.
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем справа вверху в области информации о пользователе
     - Нажимаем Settings
@@ -135,7 +136,8 @@
     У пользователя должен отображаться аватар
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/ и авторизоваться.
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     В правом верхнем углу видим аватар пользователя
   expected-result: |
@@ -147,7 +149,8 @@
     У пользователя должен отображаться аватар
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/ и авторизоваться.
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем справа вверху в области информации о пользователе
     - Нажимаем Settings
@@ -160,7 +163,8 @@
     Окно смайлов должно целиком умещаться на экране
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем Try simple battle
     - Прокрутить экран до чата
@@ -174,7 +178,8 @@
     Иконка кнопки смайликов должна отображаться
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем Try simple battle
     - Прокрутить экран до чата
@@ -188,7 +193,8 @@
     Иконки смайликов на выбор для вставки в чат должны корректно отображаться
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем Try simple battle
     - Прокрутить экран до чата
@@ -202,7 +208,8 @@
     Иконка смайлика в сообщении в чате должны отображаться корректно
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Нажимаем Try simple battle
     - Прокрутить экран до чата
@@ -218,7 +225,8 @@
     Аватар пользователя должен отображаться корректно
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/ и авторизоваться
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Выбираем вкладку Tournaments
     - Нажимаем Tournaments info
@@ -273,7 +281,8 @@
     На главной странице должны быть показаны пользователи онлайн
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/ и авторизоваться
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Прокрутить экран в область чата
   expected-result: |
@@ -285,7 +294,8 @@
     В профиле игрока текст вершин "треугольника результата" и количество игр с использованием того или иного языка должны отображаться полностью
   prerequisites: |
     Зайти на https://codebattle.hexlet.io/ и авторизоваться
-  test-data: | 
+  test-data: |
+    Нет данных
   steps:
     - Найти пользователя-мультиязычника с большим количеством боев и зайти в его профиль
     - Прокрутить до статистики боев/языков
